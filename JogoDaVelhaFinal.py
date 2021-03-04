@@ -1,4 +1,4 @@
-# Aluna: Bruna Raynara Maia Batista, matrícula: 499257
+# Aluna: Bruna Raynara Maia Batista
 
 jogador1 = ""
 jogador2 = ""
